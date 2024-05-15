@@ -1,0 +1,40 @@
+.header {
+    text-align: center;
+    background-color: #81D8D0;
+    padding: 4px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 1em;
+}
+.navbar li {
+    display: inline-block;
+    padding: 7px;
+       
+}
+.navbar ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(80, 83, 85);
+}
+.frontpage {
+    width: 2000px
+}
+.MothersDay {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 1em;
+}
+.container {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
